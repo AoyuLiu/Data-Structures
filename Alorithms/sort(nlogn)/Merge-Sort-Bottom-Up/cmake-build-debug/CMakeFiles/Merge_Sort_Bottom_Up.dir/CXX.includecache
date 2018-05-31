@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/InsertionSort.h
+iostream
+-
+algorithm
+-
+
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/MergeSort.h
+iostream
+-
+algorithm
+-
+InsertionSort.h
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/InsertionSort.h
+
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/SortTestHelper.h
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cassert
+-
+
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/main.cpp
+iostream
+-
+SortTestHelper.h
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/SortTestHelper.h
+MergeSort.h
+/Users/liuaoyu/Desktop/Alorithms/Merge-Sort-Bottom-Up/MergeSort.h
+
